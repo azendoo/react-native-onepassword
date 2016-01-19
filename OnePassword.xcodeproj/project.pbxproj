@@ -26,8 +26,8 @@
 /* Begin PBXFileReference section */
 		13BE3DEC1AC21097009241FE /* OnePassword.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OnePassword.h; sourceTree = "<group>"; };
 		13BE3DED1AC21097009241FE /* OnePassword.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OnePassword.m; sourceTree = "<group>"; };
-		52BC59081C0650F9004BBD50 /* OnePasswordExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = OnePasswordExtension.h; path = node_modules/1PasswordExtension/OnePasswordExtension.h; sourceTree = "<group>"; };
-		52BC59091C0650F9004BBD50 /* OnePasswordExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = OnePasswordExtension.m; path = node_modules/1PasswordExtension/OnePasswordExtension.m; sourceTree = "<group>"; };
+		52BC59081C0650F9004BBD50 /* OnePasswordExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OnePasswordExtension.h; sourceTree = "<group>"; };
+		52BC59091C0650F9004BBD50 /* OnePasswordExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OnePasswordExtension.m; sourceTree = "<group>"; };
 		52E319201C0655C200265D56 /* libOnePassword.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libOnePassword.a; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
