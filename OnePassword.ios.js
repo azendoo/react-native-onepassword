@@ -20,9 +20,9 @@ var OnePassword = {
         });
     },
 
-    findLogin(url) {
+    findLogin(url, sender) {
         return new Promise(function(resolve, reject) {
-            NativeOnePassword.findLogin(url, function(error, data) {
+            NativeOnePassword.findLogin(url, sender, function(error, data) {
                 if (error) {
                     return reject(error.message);
                 }
